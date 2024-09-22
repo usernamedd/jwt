@@ -25,6 +25,7 @@
 ## Description
 
 JWT utilities module for [Nest](https://github.com/nestjs/nest) based on the [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) package.
+这是我为了阅读源码做的fork
 
 ## Installation
 
